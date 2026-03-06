@@ -52,9 +52,6 @@ with open(archivo, "w", encoding="utf-8") as f:
 
 print("Archivo creado correctamente:", archivo)
 
-
-print("Archivo creado correctamente: titulos_afip.txt")
-
 with open("titulos_previos.txt", "w", encoding="utf-8") as f:
     for titulo in titulos_actuales:
         f.write(titulo + "\n")
@@ -90,6 +87,7 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
     smtp.send_message(msg)
 
 print("Mail enviado correctamente.")
+
 
 
 
