@@ -67,7 +67,7 @@ EMAIL_TO = os.environ["EMAIL_TO"]
 
 # Crear mensaje
 msg = EmailMessage()
-msg["Subject"] = "Archivo AFIP automático"
+msg["Subject"] = f"AFIP - {len(titulos_nuevos)} titulo(s) nuevo(s)"
 msg["From"] = EMAIL_USER
 msg["To"] = EMAIL_TO
 msg.set_content("Adjunto el archivo generado automáticamente.")
@@ -87,6 +87,7 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
     smtp.send_message(msg)
 
 print("Mail enviado correctamente.")
+
 
 
 
