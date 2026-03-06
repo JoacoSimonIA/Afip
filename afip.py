@@ -19,7 +19,7 @@ novedades = data["d"]["data"][:30]
 # Leer titulos previos
 try:
     with open("titulos_previos.txt", "r", encoding="utf-8") as f:
-        titulos_previos = [line.strip() for line in f if line.strip()]
+        titulos_previos = [line.strip().lower() for line in f if line.strip()]
 except FileNotFoundError:
     titulos_previos = []
 
@@ -87,6 +87,7 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
     smtp.send_message(msg)
 
 print("Mail enviado correctamente.")
+
 
 
 
