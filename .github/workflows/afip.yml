@@ -22,9 +22,17 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-      - name: Ejecutar script
+            - name: Ejecutar script
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: python afip.py
+
+      - name: Guardar nuevos titulos
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add titulos_previos.txt
+          git commit -m "Actualizar titulos previos" || echo "No changes"
+          git push
