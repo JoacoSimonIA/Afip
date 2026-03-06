@@ -27,7 +27,7 @@ except FileNotFoundError:
 titulos_actuales = []
 
 for novedad in novedades:
-    titulo = novedad["Titulo"]
+    titulo = novedad["Titulo"].strip().lower()
     titulos_actuales.append(titulo)
 
 titulos_nuevos = []
@@ -87,6 +87,7 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
     smtp.send_message(msg)
 
 print("Mail enviado correctamente.")
+
 
 
 
