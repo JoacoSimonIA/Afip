@@ -16,19 +16,48 @@ data = response.json()
 # 3️⃣ Entramos a ["d"]["data"]
 novedades = data["d"]["data"][:30]
 
+# Leer titulos previos
+try:
+    with open("titulos_previos.txt", "r", encoding="utf-8") as f:
+        titulos_previos = [line.strip() for line in f if line.strip()]
+except FileNotFoundError:
+    titulos_previos = []
+
 # 4️⃣ Armamos el bloque de texto
-bloque = "Titulos\n\n"
+titulos_actuales = []
 
 for novedad in novedades:
     titulo = novedad["Titulo"]
-    archivo.write(titulo + "\n\n")
+    titulos_actuales.append(titulo)
+
+titulos_nuevos = []
+
+for titulo in titulos_actuales:
+    if titulo not in titulos_previos:
+        titulos_nuevos.append(titulo)
+
+if not titulos_nuevos:
+    print("No hay titulos nuevos")
+    exit()
 
 # 5️⃣ Guardamos en un archivo .txt
-with open("titulos_afip.txt", "w", encoding="utf-8") as f:
-    f.write(bloque)
+
+archivo = "titulos_afip.txt"
+
+with open(archivo, "w", encoding="utf-8") as f:
+    f.write("Titulos nuevos AFIP\n\n")
+
+    for titulo in titulos_nuevos:
+        f.write(titulo + "\n\n")
+
+print("Archivo creado correctamente:", archivo)
 
 
 print("Archivo creado correctamente: titulos_afip.txt")
+
+with open("titulos_previos.txt", "w", encoding="utf-8") as f:
+    for titulo in titulos_actuales:
+        f.write(titulo + "\n")
 
 import os
 import smtplib
@@ -61,6 +90,7 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
     smtp.send_message(msg)
 
 print("Mail enviado correctamente.")
+
 
 
 
