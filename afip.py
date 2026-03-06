@@ -19,8 +19,9 @@ novedades = data["d"]["data"][:30]
 # 4️⃣ Armamos el bloque de texto
 bloque = "Titulos\n\n"
 
-for i, item in enumerate(novedades, start=1):
-    bloque += f"{i}: {item['Titulo']}\n"
+for novedad in novedades:
+    titulo = novedad["Titulo"]
+    archivo.write(titulo + "\n\n")
 
 # 5️⃣ Guardamos en un archivo .txt
 with open("titulos_afip.txt", "w", encoding="utf-8") as f:
@@ -60,5 +61,6 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
     smtp.send_message(msg)
 
 print("Mail enviado correctamente.")
+
 
 
