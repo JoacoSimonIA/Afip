@@ -22,7 +22,7 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
-            - name: Ejecutar script
+      - name: Ejecutar script
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
