@@ -14,7 +14,7 @@ response = requests.post(url, headers=headers, json={})
 data = response.json()
 
 # 3️⃣ Entramos a ["d"]["data"]
-novedades = data["d"]["data"]
+novedades = data["d"]["data"][:30]
 
 # 4️⃣ Armamos el bloque de texto
 bloque = "Titulos\n\n"
@@ -60,3 +60,4 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
     smtp.send_message(msg)
 
 print("Mail enviado correctamente.")
+
