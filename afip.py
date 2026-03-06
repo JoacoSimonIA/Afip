@@ -47,8 +47,8 @@ archivo = "titulos_afip.txt"
 with open(archivo, "w", encoding="utf-8") as f:
     f.write("Titulos nuevos AFIP\n\n")
 
-    for titulo in titulos_nuevos:
-        f.write(titulo + "\n\n")
+    for i, titulo in enumerate(titulos_nuevos, start=1):
+        f.write(f"{i}: {titulo}\n\n")
 
 print("Archivo creado correctamente:", archivo)
 
@@ -87,6 +87,7 @@ with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
     smtp.send_message(msg)
 
 print("Mail enviado correctamente.")
+
 
 
 
