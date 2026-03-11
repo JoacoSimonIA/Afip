@@ -1,3 +1,4 @@
+ya no se limitará la cuit por falta de cumplimiento a controles electrónicos
 tres formas simples para detectar una estafa en nombre de arca
 régimen de facilidades de pago para prestadores de servicios a personas con discapacidad
 nueva modalidad de liquidación electrónica mensual y ampliación de la información para declaraciones de iva y ganancias
@@ -27,4 +28,3 @@ se flexibilizaron condiciones de adhesión al plan de facilidades de pagos
 ampliación del plazo de adhesión al régimen de facilidades de pago para el impuesto a las ganancias
 domicilio fiscal electrónico
 simplificación y modernización de la importación de fertilizantes y enmiendas
-eliminación del régimen de información complementario de operaciones internacionales
