@@ -1,3 +1,4 @@
+casas particulares: arca implementa el recibo de sueldo 100% digital
 arca reglamentó el procedimiento para adherirse al rimi
 modernización laboral: arca agiliza el procedimiento para generar el certificado de aportes y haberes
 más de 80.000 adhesiones al régimen simplificado de ganancias
@@ -27,4 +28,3 @@ arca logró un índice de transparencia de casi 94% y superó su evaluación ant
 acuerdo de cooperación entre las aduanas de argentina y estados unidos
 clave fiscal: qué es y cómo obtenerla
 bienes personales
-declaración de cbu: ahora, desde la app arca móvil
