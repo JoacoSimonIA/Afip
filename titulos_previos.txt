@@ -2,7 +2,6 @@ recaudación tributaria de julio 2026
 arca prorrogó hasta fin de año la suspensión de ejecuciones fiscales y embargos
 arca agiliza el régimen de envíos postales internacionales y puerta a puerta
 comercio exterior: se elimina el límite de monto para exportar por courier y se optimizó el régimen de envíos internacionales
-tareas de mantenimiento en el sitio web
 régimen penal tributario: arca reglamentó el pago del 50% adicional para extinguir la acción penal
 digitalización de la liberación de garantías aduaneras por falta de certificado de origen
 minería: simplificación y digitalización del recupero de iva para la exploración minera
@@ -28,3 +27,4 @@ nuevos parámetros para categorización de mipymes
 ganancias y bienes personales 2025: se encuentra habilitado el aplicativo web
 ya no se limitará la cuit por falta de cumplimiento a controles electrónicos
 tres formas simples para detectar una estafa en nombre de arca
+régimen de facilidades de pago para prestadores de servicios a personas con discapacidad
