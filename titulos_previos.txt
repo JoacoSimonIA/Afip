@@ -1,3 +1,4 @@
+mantenimiento programado: habrá una interrupción temporal en los servicios de facturación
 recaudación tributaria de julio 2026
 arca prorrogó hasta fin de año la suspensión de ejecuciones fiscales y embargos
 arca agiliza el régimen de envíos postales internacionales y puerta a puerta
@@ -27,4 +28,3 @@ nuevos parámetros para categorización de mipymes
 ganancias y bienes personales 2025: se encuentra habilitado el aplicativo web
 ya no se limitará la cuit por falta de cumplimiento a controles electrónicos
 tres formas simples para detectar una estafa en nombre de arca
-régimen de facilidades de pago para prestadores de servicios a personas con discapacidad
