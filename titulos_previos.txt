@@ -1,3 +1,4 @@
+planes de pago: arca simplificó el cobro de cuotas de gran valor mediante débito directo
 recaudación tributaria de agosto
 factura electrónica: la obligación de emitir ahora alcanzará a monotributistas sociales, promovidos y otros sujetos no alcanzados
 sistema de gestión de inversiones para tramitar beneficios fiscales del rimi
@@ -27,4 +28,3 @@ nueva sede para la agencia 12
 arca implementa la declaración jurada del régimen simplificado de ganancias para personas humanas
 la aduana subastará celulares y placas de madera
 el gobierno reglamentó el régimen de inocencia fiscal
-nuevos parámetros para categorización de mipymes
