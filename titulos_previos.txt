@@ -1,15 +1,16 @@
-ya está disponible el nuevo servicio “ganancias para personas jurídicas web”
+postergación de la implementación de los cambios en el comercio fronterizo
 ¿cómo regularizar la deuda de monotributo?
+ya está disponible el nuevo servicio “ganancias para personas jurídicas web”
 recibo de sueldo asistido para empleadas de casas particulares
 transferencias: conocé los parámetros a considerar
 prórroga del plazo de presentación de ganancias para personas físicas
 régimen de courier
 reglamentación del fondo de asistencia laboral
 recaudación tributaria de septiembre
-régimen de formalización laboral (rifl): precisiones sobre las condiciones de acceso, requisitos y alcance del beneficio
-régimen de inversiones (rimi): precisiones sobre los requisitos para computar bienes, inmuebles y proyectos
 modernización laboral: aclaraciones sobre recibos digitales y certificado art. 80
+régimen de formalización laboral (rifl): precisiones sobre las condiciones de acceso, requisitos y alcance del beneficio
 régimen de promoción de empleo registrado (per): precisiones y aspectos claves
+régimen de inversiones (rimi): precisiones sobre los requisitos para computar bienes, inmuebles y proyectos
 planes de pago: arca simplificó el cobro de cuotas de gran valor mediante débito directo
 recaudación tributaria de agosto
 factura electrónica: la obligación de emitir ahora alcanzará a monotributistas sociales, promovidos y otros sujetos no alcanzados
@@ -27,4 +28,3 @@ prórroga del vencimiento para la presentación de balances y estados contables
 arca lanza un plan de pago en cuotas para mipymes, pequeños contribuyentes y entidades sin fines de lucro
 liquidación digital para empleados del sector privado, ahora en “mi argentina”
 régimen de promoción del empleo registrado: ¿quiénes pueden ingresar?
-modernización laboral: arca reglamentó el régimen de promoción de empleo registrado
