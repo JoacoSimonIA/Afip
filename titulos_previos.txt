@@ -1,6 +1,7 @@
+mayor flexibilidad operativa al sector minero
 ganancias simplificada: diferencia entre adherir, ratificar y convalidar
-prórroga de la implementación del fondo de asistencia laboral
 reglamentación de las modificaciones de la ley de inocencia fiscal ii
+prórroga de la implementación del fondo de asistencia laboral
 postergación de la implementación de los cambios en el comercio fronterizo
 ya está disponible el nuevo servicio “ganancias para personas jurídicas web”
 ¿cómo regularizar la deuda de monotributo?
@@ -8,8 +9,8 @@ recibo de sueldo asistido para empleadas de casas particulares
 transferencias: conocé los parámetros a considerar
 prórroga del plazo de presentación de ganancias para personas físicas
 régimen de courier
-recaudación tributaria de septiembre
 reglamentación del fondo de asistencia laboral
+recaudación tributaria de septiembre
 régimen de inversiones (rimi): precisiones sobre los requisitos para computar bienes, inmuebles y proyectos
 modernización laboral: aclaraciones sobre recibos digitales y certificado art. 80
 régimen de promoción de empleo registrado (per): precisiones y aspectos claves
@@ -27,4 +28,3 @@ digitalización de la liberación de garantías aduaneras por falta de certifica
 minería: simplificación y digitalización del recupero de iva para la exploración minera
 adhesiones al régimen simplificado del impuesto a las ganancias
 nueva prórroga para presentar la declaración jurada de ganancias
-prórroga del vencimiento para la presentación de balances y estados contables
