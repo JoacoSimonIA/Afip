@@ -1,3 +1,4 @@
+casas particulares: ¿cómo hago el recibo de sueldo?
 inocencia fiscal ii: reglamentación del régimen de reducción de multas para pymes
 se extienden la suspensión de ejecuciones fiscales y el plan de pagos para mipymes, pequeños contribuyentes y entidades sin fines de lucro
 espacios móviles de atención en salta para garantizar la asistencia a contribuyentes del distrito orán tras el incendio en el depósito
@@ -16,10 +17,10 @@ transferencias: conocé los parámetros a considerar
 régimen de courier
 reglamentación del fondo de asistencia laboral
 recaudación tributaria de septiembre
-régimen de formalización laboral (rifl): precisiones sobre las condiciones de acceso, requisitos y alcance del beneficio
-régimen de promoción de empleo registrado (per): precisiones y aspectos claves
 régimen de inversiones (rimi): precisiones sobre los requisitos para computar bienes, inmuebles y proyectos
 modernización laboral: aclaraciones sobre recibos digitales y certificado art. 80
+régimen de promoción de empleo registrado (per): precisiones y aspectos claves
+régimen de formalización laboral (rifl): precisiones sobre las condiciones de acceso, requisitos y alcance del beneficio
 planes de pago: arca simplificó el cobro de cuotas de gran valor mediante débito directo
 recaudación tributaria de agosto
 factura electrónica: la obligación de emitir ahora alcanzará a monotributistas sociales, promovidos y otros sujetos no alcanzados
@@ -27,4 +28,3 @@ sistema de gestión de inversiones para tramitar beneficios fiscales del rimi
 régimen de intercambio automático de información financiera (crs)
 suspensión de ejecuciones fiscales y embargos: se prorroga hasta fin de año
 arca agiliza el régimen de envíos postales internacionales y puerta a puerta
-comercio exterior: se elimina el límite de monto para exportar por courier y se optimizó el régimen de envíos internacionales
